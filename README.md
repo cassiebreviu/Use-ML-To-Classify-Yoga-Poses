@@ -45,7 +45,7 @@ Install packages <br>
 * Go to [portal.azure.com](https://portal.azure.com/)
 * Select "Create Resource"
 * Search "Custom Vision"
-* Select "Create
+* Select "Create"
 * Complete the required fields
 * Select "Create"
 * When the deployment succeeds you will get a notification in the top right corner.
