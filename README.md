@@ -11,7 +11,7 @@ Simple nodejs console app that uses Bing Image Search to scrape images to a loca
 
 [Cognitive Service Custom Vision Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home?WT.mc_id=techtogether-talk-casiljan)
 
-## Create a service that can recognize yoga poses using Azure Cognitive Services
+## How to create a service that can classify yoga poses using Azure Cognitive Services
 
 ### Create an Azure Account
 Students get a free 100 dollar credit and dont need a credit card to sign up!
