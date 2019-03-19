@@ -1,14 +1,17 @@
 # Image Scraper using Bing Search Cognitive Service
 Simple nodejs console app that uses Bing Image Search to scrape images to a local directory based on search term(s). This example is using yoga pose names to train a custom vision machine learning model to recognize yoga poses.
 
+## Helpful Doc Links
 
 [Quickstart: Search for images with the Bing Image Search SDK for Node.js](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-image-search/image-search-sdk-node-quickstart?WT.mc_id=techtogether-talk-casiljan)
+
+[Quickstart: Create an image classification project with the Custom Vision Node.js SDK](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/node-tutorial?WT.mc_id=techtogether-talk-casiljan)
 
 [Cognitive Service Bing Search Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search?WT.mc_id=techtogether-talk-casiljan)
 
 [Cognitive Service Custom Vision Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home?WT.mc_id=techtogether-talk-casiljan)
 
-# Create a service that can recognize yoga poses using Azure Cognitive Services
+## Create a service that can recognize yoga poses using Azure Cognitive Services
 
 ### Create an Azure Account
 Students get a free 100 dollar credit and dont need a credit card to sign up!
@@ -73,6 +76,7 @@ Install packages <br>
    - Browse to local files and select a image from the test folder
    - The predication will appear on the right side of the window
 ### Consume the API in an App
+
 Once the model is trained and at a satisfactory accuracy its ready to be used in your App
 * Go to the Resource Group that contains the Custom Vision Resource
 * There should be a resource named "YourCustomVisionResourceName_Prediction - Quick start"
