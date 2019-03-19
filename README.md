@@ -10,7 +10,7 @@ Simple nodejs console app that uses Bing Image Search to scrape images to a loca
 
 # Create a service that can recognize yoga poses using Azure Cognitive Services
 
-### Create an Azure account. 
+### Create an Azure Account
 Students get a free 100 dollar credit and dont need a credit card to sign up!
 
 [Click here to create your account](https://azure.microsoft.com/en-us/free/students?WT.mc_id=techtogether-talk-casiljan)
@@ -52,8 +52,27 @@ Install packages <br>
 * Select "Go to resource"
 * Select "Quick Start"
 * Select "Custom Vision Portal"
-* Select Signin
-* Select New Project
+* Select 'Sign in"
+* Select "New Project"
+  - Enter a Name and Resource Group and 
+  - Project Types: Classificaion
+  - Classification Types: MultiClass General
+  - Domains: General
+* Create project
+* Add and tag images
+  - Select "Add Images" and navigate to the train folder for the scraped images
+  - Ctrl + A to selet all the images in the folder
+  - Select "Open"
+  - Add tag for photos to indicate the yoga pose
+  - Select "Upload photos"
+  - Repeat these steps for each yoga pose (class)
+* Select "Train"
+* Test your model
+   - Select "Quick Test" from the upper right corner
+   - Browse to local files and select a image from the test folder
+   - The predication will appear on the right side of the window
+   
+#### Congrats! You have created a machine learning model that can recognize yoga poses!
 
 
 
