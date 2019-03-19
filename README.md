@@ -27,6 +27,7 @@ Make and go to the file directory:
 
 Clone the repo <br>
 `git clone https://github.com/cassieview/CogServiceImageScraper.git`
+<br>
 `cd CogServiceImageScraper`
 
 Install packages <br>
