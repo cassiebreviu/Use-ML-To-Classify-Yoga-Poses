@@ -27,7 +27,7 @@ Make and go to the file directory:
 
 Clone the repo <br>
 `git clone https://github.com/cassieview/CogServiceImageScraper.git`
-`cd CogServiceImageScraper'
+`cd CogServiceImageScraper`
 
 Install packages <br>
 `npm install`
