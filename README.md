@@ -28,8 +28,7 @@ Clone the repo <br>
 Install packages <br>
 `npm install`
 
-### Create Azure Resources
-#### Create Bing Search Api
+### Create Bing Search Api Resource
 * Go to [portal.azure.com](https://portal.azure.com/)
 * Select "Create Resource"
 * Select "AI + Machine Learning"
@@ -41,7 +40,7 @@ Install packages <br>
 * Select "Keys" from the left hand navigation for the resource.
 * Copy the Subscription Key and paste it into the script.
 
-#### Create Custom Vision Api
+### Create Custom Vision Api Resource
 * Go to [portal.azure.com](https://portal.azure.com/)
 * Select "Create Resource"
 * Search "Custom Vision"
@@ -50,6 +49,8 @@ Install packages <br>
 * Select "Create"
 * When the deployment succeeds you will get a notification in the top right corner.
 * Select "Go to resource"
+
+### Create Project and Train Model
 * Select "Quick Start"
 * Select "Custom Vision Portal"
 * Select 'Sign in"
