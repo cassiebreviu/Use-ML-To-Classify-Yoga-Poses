@@ -19,7 +19,8 @@ Install packages <br>
 Open in VS Code <br>
 `code .`
 
-Follow the instructions to [Create a Bing Search Api](https://github.com/cassieview/ImageScraperWithBingSearchCogServ#create-bing-search-api-resource). Then copy and paste the subscription key into the app.js script <br>
+Follow the instructions to [Create a Bing Search Api](https://github.com/cassieview/ImageScraperWithBingSearchCogServ#create-bing-search-api-resource). <br>
+Add the key into the app.js script <br>
 `const subscriptionKey = 'addyourkeyhere'`
 
 Run the script <br>
