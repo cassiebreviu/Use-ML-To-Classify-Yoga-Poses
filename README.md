@@ -75,6 +75,12 @@ Install packages <br>
    - Select "Quick Test" from the upper right corner
    - Browse to local files and select a image from the test folder
    - The predication will appear on the right side of the window
+   
+### Get the Prediction Url
+* Select "Performace" from the top navigation in the Custom Vision portal
+* Select "Prediction Url"
+* Copy the Url to either use an image url or image file
+
 ### Consume the API in an App
 
 Once the model is trained and at a satisfactory accuracy its ready to be used in your App
