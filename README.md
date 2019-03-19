@@ -72,6 +72,13 @@ Install packages <br>
    - Select "Quick Test" from the upper right corner
    - Browse to local files and select a image from the test folder
    - The predication will appear on the right side of the window
+### Consume the API in an App
+Once the model is trained and at a satisfactory accuracy its ready to be used in your App
+* Go to the Resource Group that contains the Custom Vision Resource
+* There should be a resource named "YourCustomVisionResourceName_Prediction - Quick start"
+* The Select "Api Reference" from the list of helpful links
+* This will open a page with docs on how to call the api to get predictions from the model
+* If you scoll all the way to the bottom there are code samples in multiple languages to get you started
    
 #### Congrats! You have created a machine learning model that can recognize yoga poses!
 
