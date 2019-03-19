@@ -92,8 +92,8 @@ Once the model is trained and at a satisfactory accuracy its ready to be used in
 * If you scoll all the way to the bottom there are code samples in multiple languages to get you started
 
 ### Test API in Postman
-* Get the predction Url as described above
-*  Select "Post" from the dropdown and paste in the url
+* Get the predction url as described above
+* Select "Post" from the dropdown and paste in the url
 * Go to the settings and get the Prediction Key
 * In the headers add the `Prediction-key` as the key and the actual key as the value
 * Auth should be set to no auth
