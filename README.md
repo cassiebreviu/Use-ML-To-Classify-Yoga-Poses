@@ -9,7 +9,7 @@ Make and go to the file directory:
 `cd consolejsimagescraper`
 
 Clone the repo <br>
-`git clone https://github.com/cassieview/CogServiceImageScraper.git`
+`git clone https://github.com/cassieview/ImageScraperWithBingSearchCogServ.git`
 <br>
 `cd CogServiceImageScraper`
 
