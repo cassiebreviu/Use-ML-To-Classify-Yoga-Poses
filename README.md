@@ -1,7 +1,7 @@
 # Image Scraper using Bing Search Cognitive Service
 Simple nodejs console app that uses Bing Image Search to scrape images to a local directory based on search term(s). This example is using yoga pose names to train a custom vision machine learning model to recognize yoga poses.
 
-### How to Run the Image Scraper Script
+## How to Run the Image Scraper Script
 Make and go to the file directory:
 <br>
 `md consolejsimagescraper`
