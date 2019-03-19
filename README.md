@@ -45,6 +45,7 @@ Students get a free 100 dollar credit and dont need a credit card to sign up!
 * Select "Go to resource"
 * Select "Keys" from the left hand navigation for the resource.
 * Copy the Subscription Key and paste it into the script.
+* [Run the script](https://github.com/cassieview/ImageScraperWithBingSearchCogServ#how-to-run-the-image-scraper-script) to get images to train the custom vision model.
 
 ### Create Custom Vision Api Resource
 * Go to [portal.azure.com](https://portal.azure.com/)
@@ -68,7 +69,7 @@ Students get a free 100 dollar credit and dont need a credit card to sign up!
 * Create project
 * Add and tag images
   - Select "Add Images" and navigate to the train folder for the scraped images
-  - Ctrl + A to selet all the images in the folder
+  - Ctrl + A to select all the images in the folder
   - Select "Open"
   - Add tag for photos to indicate the yoga pose
   - Select "Upload photos"
