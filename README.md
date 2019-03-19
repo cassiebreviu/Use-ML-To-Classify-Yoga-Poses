@@ -1,23 +1,6 @@
 # Image Scraper using Bing Search Cognitive Service
 Simple nodejs console app that uses Bing Image Search to scrape images to a local directory based on search term(s). This example is using yoga pose names to train a custom vision machine learning model to recognize yoga poses.
 
-## Helpful Doc Links
-
-[Quickstart: Search for images with the Bing Image Search SDK for Node.js](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-image-search/image-search-sdk-node-quickstart?WT.mc_id=techtogether-talk-casiljan)
-
-[Quickstart: Create an image classification project with the Custom Vision Node.js SDK](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/node-tutorial?WT.mc_id=techtogether-talk-casiljan)
-
-[Cognitive Service Bing Search Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search?WT.mc_id=techtogether-talk-casiljan)
-
-[Cognitive Service Custom Vision Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home?WT.mc_id=techtogether-talk-casiljan)
-
-## How to create a service that can classify yoga poses using Azure Cognitive Services
-
-### Create an Azure Account
-Students get a free 100 dollar credit and dont need a credit card to sign up!
-
-[Click here to create your account](https://azure.microsoft.com/en-us/free/students?WT.mc_id=techtogether-talk-casiljan)
-
 ### Get Source and Install Packages
 Make and go to the file directory:
 <br>
@@ -32,6 +15,23 @@ Clone the repo <br>
 
 Install packages <br>
 `npm install`
+
+Open in VS Code <br>
+`code .`
+
+Follow the instructions to [Create a Bing Search Api](https://github.com/cassieview/ImageScraperWithBingSearchCogServ#create-bing-search-api-resource). Then copy and paste the subscription key into the app.js script <br>
+`const subscriptionKey = 'addyourkeyhere'`
+
+Run the script <br>
+`node app.js`
+
+
+## How to create a service that can classify yoga poses using Azure Cognitive Services
+
+### Create an Azure Account
+Students get a free 100 dollar credit and dont need a credit card to sign up!
+
+[Click here to create your account](https://azure.microsoft.com/en-us/free/students?WT.mc_id=techtogether-talk-casiljan)
 
 ### Create Bing Search Api Resource
 * Go to [portal.azure.com](https://portal.azure.com/)
@@ -106,3 +106,13 @@ Once the model is trained and at a satisfactory accuracy its ready to be used in
 }``
 * Send Request
 
+
+## Helpful Doc Links
+
+[Quickstart: Search for images with the Bing Image Search SDK for Node.js](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-image-search/image-search-sdk-node-quickstart?WT.mc_id=techtogether-talk-casiljan)
+
+[Quickstart: Create an image classification project with the Custom Vision Node.js SDK](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/node-tutorial?WT.mc_id=techtogether-talk-casiljan)
+
+[Cognitive Service Bing Search Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search?WT.mc_id=techtogether-talk-casiljan)
+
+[Cognitive Service Custom Vision Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home?WT.mc_id=techtogether-talk-casiljan)
