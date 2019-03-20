@@ -1,26 +1,6 @@
 # Image Scraper using Bing Search Cognitive Service
 Simple nodejs console app that uses Bing Image Search to scrape images to a local directory based on search term(s). This example is using yoga pose names to train a custom vision machine learning model to recognize yoga poses.
 
-## How to Run the Image Scraper Script
-Clone the repo <br>
-`git clone https://github.com/cassieview/ImageScraperWithBingSearchCogServ.git`
-<br>
-`cd ImageScraperWithBingSearchCogServ`
-
-Install packages <br>
-`npm install`
-
-Open in VS Code <br>
-`code .`
-
-Follow the instructions to [Create a Bing Search Api](https://github.com/cassieview/ImageScraperWithBingSearchCogServ#create-bing-search-api-resource). <br>
-Add the key into the app.js script <br>
-`const subscriptionKey = 'addyourkeyhere'`
-
-Run the script <br>
-`node app.js`
-
-
 ## How to Create a Service That Can Classify Yoga Poses <br> (Using Azure Cognitive Services)
 
 ### Create an Azure Account
@@ -39,7 +19,24 @@ Students get a free 100 dollar credit and dont need a credit card to sign up!
 * Select "Go to resource"
 * Select "Keys" from the left hand navigation for the resource.
 * Copy the Subscription Key and paste it into the script.
-* [Run the script](https://github.com/cassieview/ImageScraperWithBingSearchCogServ#how-to-run-the-image-scraper-script) to get images to train the custom vision model.
+
+### How to Run the Image Scraper Script
+Clone the repo <br>
+`git clone https://github.com/cassieview/ImageScraperWithBingSearchCogServ.git`
+<br>
+`cd ImageScraperWithBingSearchCogServ`
+
+Install packages <br>
+`npm install`
+
+Open in VS Code <br>
+`code .`
+
+Add the key into the app.js script <br>
+`const subscriptionKey = 'addyourkeyhere'`
+
+Run the script <br>
+`node app.js`
 
 ### Create Custom Vision Api Resource
 * Go to [portal.azure.com](https://portal.azure.com/)
