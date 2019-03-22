@@ -109,3 +109,5 @@ Once the model is trained and at a satisfactory accuracy its ready to be used in
 [Cognitive Service Bing Search Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search?WT.mc_id=techtogether-talk-casiljan)
 
 [Cognitive Service Custom Vision Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home?WT.mc_id=techtogether-talk-casiljan)
+
+[Create a Node.js app in Azure App Service on Linux](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-nodejs?WT.mc_id=techtogether-talk-casiljan)
