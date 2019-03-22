@@ -22,9 +22,9 @@ Students get a free 100 dollar credit and dont need a credit card to sign up!
 
 ### How to Run the Image Scraper Script
 Clone the repo <br>
-`git clone https://github.com/cassieview/ImageScraperWithBingSearchCogServ.git`
+`git clone https://github.com/cassieview/TechTogether-Demo.git`
 <br>
-`cd ImageScraperWithBingSearchCogServ`
+`cd TechTogether-Demo`
 
 Install packages <br>
 `npm install`
