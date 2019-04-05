@@ -20,9 +20,9 @@ This tutorial will go over how to use Azure Cognitive Services to get an image d
 ### How to Run the Image Scraper Script
 # Image Scraper using Bing Search Cognitive Service
 Clone the repo <br>
-`git clone https://github.com/cassieview/TechTogether-Demo.git`
+`https://github.com/cassieview/Use-ML-To-Classify-Yoga-Poses.git`
 <br>
-`cd TechTogether-Demo`
+`cd Use-ML-To-Classify-Yoga-Poses`
 
 Install packages <br>
 `npm install`
