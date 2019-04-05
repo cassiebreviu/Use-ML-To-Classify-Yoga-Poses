@@ -3,9 +3,7 @@ This tutorial will go over how to use Azure Cognitive Services to get an image d
 
 
 ### Create an Azure Account
-Students get a free 100 dollar credit and dont need a credit card to sign up!
-
-[Click here to create your account](https://azure.microsoft.com/en-us/free/students?WT.mc_id=techtogether-talk-casiljan)
+[Click here to create your account](https://azure.microsoft.com/free/?WT.mc_id=blog-github-casiljan)
 
 ### Create Bing Search Api Resource
 * Go to [portal.azure.com](https://portal.azure.com/)
