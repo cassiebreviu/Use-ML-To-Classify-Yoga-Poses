@@ -52,7 +52,7 @@ Run the script <br>
 * Select 'Sign in"
 * Select "New Project"
   - Enter a Name and Resource Group and 
-  - Project Types: Classificaion
+  - Project Types: Classification
   - Classification Types: MultiClass General
   - Domains: General
 * Create project
@@ -82,7 +82,7 @@ Once the model is trained and at a satisfactory accuracy its ready to be used in
 * There should be a resource named "YourCustomVisionResourceName_Prediction - Quick start"
 * The Select "Api Reference" from the list of helpful links
 * This will open a page with docs on how to call the api to get predictions from the model
-* If you scoll all the way to the bottom there are code samples in multiple languages to get you started
+* If you scroll all the way to the bottom there are code samples in multiple languages to get you started
 
 ### Test API in Postman
 * Get the predction url as described above
