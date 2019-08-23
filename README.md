@@ -33,6 +33,9 @@ Open in VS Code <br>
 Add the key into the app.js script <br>
 `const subscriptionKey = 'addyourkeyhere'`
 
+Update the host to the endpoint you created <br>
+`const host = 'resourcename.cognitiveservices.azure.com';`
+
 Run the script <br>
 `node app.js`
 
