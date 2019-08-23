@@ -51,7 +51,7 @@ Run the script <br>
 
 ### Create Project and Train Model
 * Select "Quick Start"
-* Select "Custom Vision Portal"
+* Select "Custom Vision Portal" or go to https://www.customvision.ai/projects and login
 * Select 'Sign in"
 * Select "New Project"
   - Enter a Name and Resource Group and 
