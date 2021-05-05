@@ -3,10 +3,10 @@ This tutorial will go over how to use Azure Cognitive Services to get an image d
 
 
 ### Create an Azure Account
-[Click here to create your account](https://azure.microsoft.com/free/?WT.mc_id=blog-github-casiljan)
+[Click here to create your account](https://azure.microsoft.com/free/?WT.mc_id=aiml-0000-cassieb)
 
 ### Create Bing Search Api Resource
-* Go to [portal.azure.com](https://portal.azure.com/)
+* Go to [portal.azure.com](https://portal.azure.com/?WT.mc_id=aiml-0000-cassieb)
 * Select "Create Resource"
 * Select "AI + Machine Learning"
 * Select "Bing Search v7"
@@ -40,7 +40,7 @@ Run the script <br>
 `node app.js`
 
 ### Create Custom Vision Api Resource
-* Go to [portal.azure.com](https://portal.azure.com/)
+* Go to [portal.azure.com](https://portal.azure.com/?WT.mc_id=aiml-0000-cassieb)
 * Select "Create Resource"
 * Search "Custom Vision"
 * Select "Create"
@@ -103,12 +103,12 @@ Once the model is trained and at a satisfactory accuracy its ready to be used in
 
 ## Helpful Doc Links
 
-[Quickstart: Search for images with the Bing Image Search SDK for Node.js](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-image-search/image-search-sdk-node-quickstart?WT.mc_id=github-talk-cassieb)
+[Quickstart: Search for images with the Bing Image Search SDK for Node.js](https://docs.microsoft.com/azure/cognitive-services/bing-image-search/image-search-sdk-node-quickstart?WT.mc_id=aiml-0000-cassieb)
 
-[Quickstart: Create an image classification project with the Custom Vision Node.js SDK](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/node-tutorial?WT.mc_id=github-talk-cassieb)
+[Quickstart: Create an image classification project with the Custom Vision Node.js SDK](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/node-tutorial?WT.mc_id=aiml-0000-cassieb)
 
-[Cognitive Service Bing Search Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search?WT.mc_id=learn-docs-cassieb)
+[Cognitive Service Bing Search Docs](https://docs.microsoft.com/azure/cognitive-services/bing-web-search?WT.mc_id=aiml-0000-cassieb)
 
-[Cognitive Service Custom Vision Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home?WT.mc_id=github-talk-cassieb)
+[Cognitive Service Custom Vision Docs](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/home?WT.mc_id=aiml-0000-cassieb)
 
-[Create a Node.js app in Azure App Service on Linux](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-nodejs?WT.mc_id=github-talk-cassieb)
+[Create a Node.js app in Azure App Service on Linux](https://docs.microsoft.com/azure/app-service/containers/quickstart-nodejs?WT.mc_id=aiml-0000-cassieb)
